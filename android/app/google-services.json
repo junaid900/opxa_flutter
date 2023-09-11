@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "159182377535",
+    "project_id": "opxa-50777",
+    "storage_bucket": "opxa-50777.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159182377535:android:20f0ce0cbcfdf1992d1e8a",
+        "android_client_info": {
+          "package_name": "com.app.opxa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159182377535-d4nc02tv4dijdp03epbn8673v1h3ou1m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.opxa",
+            "certificate_hash": "e6c00b1fad35d700881ab9086d712886eef2252e"
+          }
+        },
+        {
+          "client_id": "159182377535-rnnrauuhjcla6u364v82u84vocg4obml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwi9YFWPDOwNKWxjl26tJ_erRW8WCBIM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159182377535-rnnrauuhjcla6u364v82u84vocg4obml.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "159182377535-l8liu93lpq3ni440ih3hn43hns0b2f5l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.opxa"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:159182377535:android:cd575454c7069fd52d1e8a",
+        "android_client_info": {
+          "package_name": "com.opxa.opxa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "159182377535-r2cm0kf73b06h4ai09ra6qe19p8fkga1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.opxa.opxa",
+            "certificate_hash": "e6c00b1fad35d700881ab9086d712886eef2252e"
+          }
+        },
+        {
+          "client_id": "159182377535-rnnrauuhjcla6u364v82u84vocg4obml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwi9YFWPDOwNKWxjl26tJ_erRW8WCBIM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "159182377535-rnnrauuhjcla6u364v82u84vocg4obml.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "159182377535-l8liu93lpq3ni440ih3hn43hns0b2f5l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.app.opxa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,15 @@
+const String GET_COMPLAINS = "/get_user_complains";
+const String ADD_COMPLAIN = "/add_complain";
+const String BUY_PACKAGES = "/buypackages";
+const String WITHDRAW_BIDS = "/withdraw_bids";
+const String TRANSACTION_HISTROY = "/transaction_history";
+const String OWNER_ACCOUNTS = "/owner_accounts";
+const String GET_FILE_INTRANSFER_HISTORY = "/get_user_file_intransfer";
+const String GET_PROPERTY_INTRANSFER_HISTORY = "/get_user_property_intransfer";
+const String BID_PROPERTY = "/bid_property";
+const String WITHDRAW_REQUEST = "/withdrawl_request";
+const String UPLOAD_USER_IMAGE = "/upload_user_image";
+const String WITHDRAW_REPORT = "/withdrawl_request";
+const String DIRECT_DEPOSIT_REPORT = "/direct_deposit_history";
+const String GET_APP_SETTING_URL = "/settings";
+const String REFRESH_MARKET_FIREBASE_DATA = "/market_fire_store";

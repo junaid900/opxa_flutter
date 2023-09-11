@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "161581638483",
+    "project_id": "qkp-e-state",
+    "storage_bucket": "qkp-e-state.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161581638483:android:07029399dd720aa3f237a6",
+        "android_client_info": {
+          "package_name": "com.mjcoders.qkp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "161581638483-352kbup987ptnb9v4d144a5m2jlu72ej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mjcoders.qkp",
+            "certificate_hash": "87af20972c1b9df0e7e8df5431214527b67a097b"
+          }
+        },
+        {
+          "client_id": "161581638483-9mjagahj5dm7er2ec10srcq6qq05fihj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIG2wQOMcwLS5Z5fRXlKPNPialLVCWtEg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "161581638483-9mjagahj5dm7er2ec10srcq6qq05fihj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
